@@ -1,0 +1,5 @@
+sublime text visual studio or code
+git version control
+web browser with debug tools activated
+node.js setup
+mongo db
